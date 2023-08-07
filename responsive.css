@@ -1,0 +1,95 @@
+@media screen and (max-width:993px) {
+    section {
+        padding: 15px;
+    }
+
+    .trp {
+        transform: translate(-1px, -19px);
+    }
+
+    .sp2 {
+        margin-left: 30px;
+    }
+}
+
+@media screen and (max-width:1018px) {
+    section {
+        padding: 30px;
+    }
+}
+
+@media screen and (max-width:680px) {
+    .b1 {
+        font-size: 1.110rem;
+    }
+
+    .fs78 {
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width:796px) {
+    section {
+        padding: 8px;
+    }
+
+    .b1 {
+        font-size: 1.110rem;
+    }
+
+    .fs78 {
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width:665px) {
+    .fs78 {
+        font-size: 0.813rem;
+    }
+}
+
+@media screen and (max-width:604px) {
+    .fs78 {
+        font-size: 0.5rem;
+    }
+
+    .d5 {
+        font-size: 0.55rem;
+    }
+
+    .font14 {
+        font-size: 0.45rem;
+    }
+
+    .b1 {
+        font-size: 0.8rem;
+    }
+
+    .r2 {
+        transform: scale(0.8);
+    }
+
+    .fs45 {
+        font-size: 0.45rem;
+    }
+
+    .colour,
+    .size,
+    select,
+    .sp23 {
+        font-size: 0.4rem;
+    }
+
+    .colour {
+        margin-left: 68px;
+    }
+
+    .size {
+        margin-left: 29px;
+    }
+
+    select {
+        width: 70px;
+        height: 20px;
+    }
+}
